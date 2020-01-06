@@ -28,3 +28,5 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 output/
+YATC.Compiler/.DS_Store
+YATC/.DS_Store
