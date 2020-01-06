@@ -1,16 +1,5 @@
-TL;DR
+YATC
 =====
-
-- **YATC** (Yet Another Tiger Compiler) is a **Tiger** compiler that generates
-**.Net framework** managed binaries.
-- YATC was made in 2014 as part of an undergrad Computer Science project by
-**Damian Valdés Santiago** and **Juan Carlos Pujol Mainegra**.
-- **Tiger** is a relatively simple and imperative language that features
-nested functions,  records, arrays, integral variables and strings.
-- Tiger was defined by **Andrew Appel** in 1998 for *Modern Compiler
-Implementation in Java* (Cambridge University Press, 1998)
-- This report will explain the architecture and implementation of a Tiger compiler using **ANTLR 3.3.4** for the grammar definition, **C\# 5.0** in .Net Framework 4.5 for the construction of the Abstract Syntax Tree (AST) and the Dynamic Language Runtime (DLR) for the generation of the CIL/MSIL (Common Intermediary Language/Microsoft Intermediary Language) code.
-- **YATC** is presented *as is* and is not maintained in any way by its authors.
 
 Summary
 -------
